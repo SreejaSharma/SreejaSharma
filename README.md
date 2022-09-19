@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Machine learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on learning together 
-- 📫 How to reach me SREEJA#6615 on discord
+- 📫 How to reach me sree#7285 on discord
 
 <!---
 SreejaSharma/SreejaSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
