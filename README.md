@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SreejaSharma
-- 👀 I’m interested in Data Science & Machine learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in AI & ML
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on learning together 
 - 📫 How to reach me sree#7285 on discord
 
